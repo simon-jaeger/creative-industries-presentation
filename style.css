@@ -1,0 +1,26 @@
+/* overrides here */
+
+img {
+  max-height: 100vh;
+}
+
+small {
+  display: block;
+  position: fixed;
+  font-size: 0.5rem !important;
+  text-align: left;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(25, 25, 25, 0.75);
+  padding: 0.5rem;
+}
+
+.source {
+  display: block;
+  font-size: 0.75rem;
+  text-align: left;
+  text-indent: -4rem;
+  padding-left: 4rem;
+  max-width: 100ch;
+  margin: 0 auto;
+}
